@@ -4,21 +4,31 @@ Library Management System This project is an admin dashboard for a library manag
 
 Features Book Management:
 
-Add new books with details such as title, author, ISBN number, and publication date. Edit existing book records to update information. Delete book records that are no longer needed. Author Management:
+Add new books with details such as title, author, ISBN number, and publication date. Edit existing book records to update information. Delete book records that are no longer needed. 
 
-Add new authors with details like name, birth date, and a short biography. Edit author information when necessary. Delete author profiles as needed. Form Validations:
+Author Management:
 
-All forms used in the dashboard are validated using Formik to ensure accurate data input and prevent errors. Responsive Design:
+Add new authors with details like name, birth date, and a short biography. Edit author information when necessary. Delete author profiles as needed. 
 
-The dashboard features a clean and responsive design, making it easy to navigate and use on various devices. Installation Clone this repository to your local machine using:
+Form Validations:
 
-bash Copy code git clone [https://github.com/DhanalakshmiPrabhakaran/ReactFormikValidation-LibraryManagementSystem.git] Navigate to the project directory:
+All forms used in the dashboard are validated using Formik to ensure accurate data input and prevent errors. 
+
+Responsive Design:
+
+The dashboard features a clean and responsive design, making it easy to navigate and use on various devices. 
+
+Installation Clone this repository to your local machine using:
+
+bash Copy code git clone [https://github.com/DhanalakshmiPrabhakaran/ReactFormikValidation-LibraryManagementSystem.git] 
+
+Navigate to the project directory:
 
 bash Copy code cd Formik-Library-Management-System Install the dependencies using your preferred package manager (npm or yarn):
 
 Copy code npm install Start the development server:
 
-sql Copy code npm start Open your browser and visit http://localhost:3000 to access the admin dashboard.
+Copy code npm start Open your browser and visit http://localhost:3000 to access the admin dashboard.
 
 Usage Book Management:
 
